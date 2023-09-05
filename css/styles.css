@@ -1,0 +1,16 @@
+.pokemon-card {
+    display: inline-block;
+    width: 200px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.pokemon-card h2 {
+    margin-top: 0;
+}
+
+.pokemon-card p {
+    margin-bottom: 5px;
+}
